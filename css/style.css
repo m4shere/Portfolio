@@ -498,6 +498,7 @@ body::after {
 .hero h1 {
     width: 100%;
     max-width: 100%;
+    
 
     font-size: clamp(60px, 12vw, 190px);
     line-height: .78;
@@ -2454,6 +2455,12 @@ body.custom-cursor-enabled * {
 
         overflow: hidden;
     }
+
+
+.hero h1{
+
+    font-weight: 800;
+}
 
 .hero h1 {
     width: 100%;

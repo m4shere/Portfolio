@@ -132,7 +132,7 @@ const artworks = [
         title: "GUTS from Berserk",
         year: "2026",
         category: "sketching",
-        image: "assets/artworks/sketching/half guts.png",
+        image: "assets/artworks/sketching/half guts.webp",
         description: "Tried to capture Guts Emotions Chaos in Calmness"
     },
     
@@ -140,7 +140,7 @@ const artworks = [
         title: "Gojo in Darkness",
         year: "2026",
         category: "sketching",
-        image: "assets/artworks/sketching/gojo in dark.png",
+        image: "assets/artworks/sketching/gojo in dark.webp",
         description: "Made this on white page then filled the BG with pen"
     },
     
